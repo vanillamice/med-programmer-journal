@@ -1,8 +1,9 @@
 [build]
-  command = "python build.py"
+  command = "pip install -r requirements.txt && python build.py"
   publish = "."
+  environment = { PYTHON_VERSION = "3.11" }
 
 [[redirects]]
   from = "/*"
   to = "/index.html"
-  status = 200 
+  status = 200
