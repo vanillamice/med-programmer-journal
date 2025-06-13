@@ -1,0 +1,5 @@
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+Replace this with your actual PGP public key
+
+-----END PGP PUBLIC KEY BLOCK----- 
